@@ -70,8 +70,8 @@ module.exports = {
 					caption: str,
 					footer: config.namebot + " • " + config.ownername,
 					templateButtons: [
-						{ urlButton: { displayText: "Shortlink", url: "https://sl.rzkyfdlh.tech" } },
-						{ urlButton: { displayText: "Downloader", url: "https://downloader.rzkyfdlh.tech" } },
+						{ urlButton: { displayText: "Blogger", url: "https://rootsec.xyz" } },
+						{ urlButton: { displayText: "Github", url: "https://github.com/koleksibot" } },
 						{ quickReplyButton: { displayText: "Script Bot📑", id: "#script" } },
 						{ quickReplyButton: { displayText: "Changelog📋", id: "#changelog" } },
 						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
