@@ -1,10 +1,10 @@
 {
-  "name": "rzky-multidevice",
+  "name": "PINKHAT-Md",
   "version": "3.0.0",
   "main": "index.js",
   "depecrated": false,
   "license": "MIT",
-  "author": "RizkyFadilah",
+  "author": "Koleksibot",
   "scripts": {
     "start": "node .",
     "format": "prettier --write '**/*.{md,js,json}'"
@@ -67,7 +67,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rizky878/rzky-multidevice.git"
+    "url": "git+https://github.com/koleksibot/PINKHAT-Md.git"
   },
   "keywords": [
     "bot-md",
@@ -80,7 +80,7 @@
     "WhatsApp"
   ],
   "bugs": {
-    "url": "https://github.com/Rizky878/rzky-multidevice/issues"
+    "url": "https://github.com/koleksibot/PINKHAT-Md/issues"
   },
-  "homepage": "https://github.com/Rizky878/rzky-multidevice#readme"
+  "homepage": "https://github.com/koleksibot/PINKHAT-Md#readme"
 }
